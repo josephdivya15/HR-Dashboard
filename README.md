@@ -1,1 +1,1 @@
-# Designed and developed an HR dashboard in Microsoft Power BI to track key metrics such as employee performance, attendance, and attrition
+# Designed and developed an HR dashboard in Microsoft Power BI to analyze key metrics, including employee job satisfaction, workforce distribution by age group, and attrition trends across various factors
